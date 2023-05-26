@@ -11,7 +11,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd google-cal-oauth-django/googlecal
+  cd google-oauth-cal/googlecal
 ```
 
 Create a project on the GCP, go to the API and Services and make an OAuth app with the following modifications.
