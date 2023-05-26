@@ -1,0 +1,4 @@
+.vscode
+__pycache__
+client_secret*
+.git
